@@ -1,0 +1,60 @@
+#Box1 {
+border: 5px solid black;
+margin: 2vw;
+height: 22vh;
+width: 96vw;
+padding: 0;
+}
+#Box2 {
+    border: 5px dotted rgb(60, 63, 60);
+    margin: 2vw;
+    height: 32vh;
+    width: 96vw;
+}
+#Box3 {
+    border: 1px solid rgb(228, 228, 228);
+    margin: 2vw 20vw;
+    height: 37vh;
+    width: 60vw;
+    padding-top: 15vh;
+    padding-left: 17vw;
+    padding-right: 17vw;
+    text-align: center;
+    font-size: 33px;
+    color: rgb(0, 0, 129);
+    letter-spacing: 10px;
+    font-weight: 1000;
+    box-shadow: 1px 1px 10px rgb(170, 170, 170);
+}
+#shadowBox {
+    background-color: rgb(253, 252, 207);
+    height: 19vh;
+    width: 85vw;
+    margin-top: 6vh;
+    border: 0;
+    box-shadow: 7px 9px 4px rgb(75, 75, 75);
+}
+#purpleBox {
+    background-color: rgb(143, 56, 224);
+    height: 14vh;
+    width: 4vw;
+    margin: 1vw;
+    margin-top: 6vh;
+    float: left;
+}
+#greenBox {
+    background-color: rgb(26, 143, 16);
+    height: 19vh;
+    width: 41vw;
+    margin-left: 3vw;;
+    margin-top: 1vh;
+    float: left;
+}
+#blueCircle {
+    background-color: rgb(133, 216, 241);
+    height:19vh;
+    width: 15vw;
+    margin-left: 55vw;
+    margin-top: 1vh;
+    border-radius: 50%;
+}
